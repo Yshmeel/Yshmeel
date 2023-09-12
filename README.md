@@ -2,7 +2,11 @@
 
 I am Ruslan, self-teached Full-Stack web developer, that still learns lots of things from real highload projects.
 
-#### Skills:
+### Achievements:
+
+- EuroSkills 2023 - 2nd place in Web Development
+
+### Skills:
 
 Preferred to work with this **stack** in my latest projects: React (as JS framework) and Golang (as Backend programming language)
 Other programming languages that i learnt/still learning:
