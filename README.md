@@ -53,5 +53,5 @@ A: I staying in IT since 8 y.o, and currently (at 2024 year) i am 19. My experie
 
 Q: How can I contact with you?
 
-A: You can e-mail me to yshmeel.job@gmail.com or DM me in https://t.me/yshmeel
+A: You can e-mail me to yshmeel.job@gmail.com or DM me in https://t.me/shmee_l
 
