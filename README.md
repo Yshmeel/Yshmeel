@@ -1,6 +1,6 @@
-## Hello, who ever you be
+## Greetings from Kazakhstan!
 
-I am Ruslan, self-teached Full-Stack web developer, that works with real highload projects on both sides: Front-end/Back-end.
+I`m Ruslan, Software-engineer based in Kazakhstan. Learning programming since 8 years old. Currently working as Java Developer at enterprise company.
 
 ### Achievements:
 
@@ -16,14 +16,13 @@ I am Ruslan, self-teached Full-Stack web developer, that works with real highloa
 - Golang
 - PHP
 
-#### Front-End frameworks:
+#### Front-End libraries/frameworks:
 
-- React.js (as primary frontend framework)
+- React.js
 - Next.js
 - React Native
-- Mobx (as primary store library in ALL js projects)
 - Vue
-...and lots more
+- MobX, Redux
 
 #### Technologies/out-of-box ready software, i worked with:
 
@@ -41,17 +40,11 @@ I am Ruslan, self-teached Full-Stack web developer, that works with real highloa
 - CI/CD
 - Gitlab
 
-### FAQ
-
-Q: Why are there so many repositories with "wsk", "private" in your account?
-
-A: These repositories are related to my trainings for EuroSkills and WorldSkills. Repositories with prefix "wsk" related to my trainings for EuroSkills 2023, where I placed 2nd place. Repositories with prefix "private" are related with other competitions I preparing for.
-
-Q: What's your experience level?
-
-A: I staying in IT since 8 y.o, and currently (at 2024 year) i am 19. My experience level is Middle+ and i got 7 years of commercial experience and worked with lots of project cases.
+### Frequently Asked Questions
 
 Q: How can I contact with you?
+A: DM me at Linkedin - https://www.linkedin.com/in/yshmeel
 
-A: You can e-mail me to yshmeel.job@gmail.com or DM me in https://t.me/shmee_l
+Q: Do you have any blog?
+A: I actually writing some posts to my blog on Telegram, but all posts on Russian lang. If you know a little, feel free to go: https://t.me/yshmeeel
 
