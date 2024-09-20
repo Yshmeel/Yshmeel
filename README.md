@@ -5,6 +5,7 @@ I`m Ruslan, Software-engineer based in Kazakhstan. Learning programming since 8 
 ### Achievements:
 
 - EuroSkills 2023 (competition of professional skills). Skill: Web Development. 2nd place
+- WorldSkills Lyon 2024. Skill: Web Development. Medalion for Excellence. 4th place
 
 ### Skills:
 
