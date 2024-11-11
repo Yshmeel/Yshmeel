@@ -1,10 +1,10 @@
 ## Greetings from Kazakhstan!
 
-I`m Ruslan, Software-engineer based in Kazakhstan. Learning programming since 8 years old. Currently working as Java Developer at enterprise company.
+I`m Ruslan, 20 years old Software-engineer based in Kazakhstan. Learning programming since 8 years old. Currently working as Full-stack Developer at BTS ERG (https://erg.kz)
 
 ### Achievements:
 
-- EuroSkills 2023 (competition of professional skills). Skill: Web Development. 2nd place
+- EuroSkills Gdansk 2023. Skill: Web Development. Silver medal. 2nd place
 - WorldSkills Lyon 2024. Skill: Web Development. Medalion for Excellence. 4th place
 
 ### Skills:
@@ -29,7 +29,7 @@ I`m Ruslan, Software-engineer based in Kazakhstan. Learning programming since 8 
 
 - GraphQL
 - gRPC
-- Websockets
+- Websockets (Socket.IO)
 - Redis
 - RabbitMQ
 - PostgreSQL
@@ -44,8 +44,5 @@ I`m Ruslan, Software-engineer based in Kazakhstan. Learning programming since 8 
 ### Frequently Asked Questions
 
 Q: How can I contact with you?
-A: DM me at Linkedin - https://www.linkedin.com/in/yshmeel
-
-Q: Do you have any blog?
-A: I actually writing some posts to my blog on Telegram, but all posts on Russian lang. If you know a little, feel free to go: https://t.me/yshmeeel
+A: DM me at [mailto:yshmeel.job@gmail.com] or let's connect on LinkedIn - https://www.linkedin.com/in/yshmeel
 
